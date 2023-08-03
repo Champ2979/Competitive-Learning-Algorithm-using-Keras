@@ -1,7 +1,6 @@
 # Competitive-Learning-Algorithm-using-Keras
 This code implements competitive learning for digit classification using a neural network with a competitive layer and stops training when the desired accuracy (90% approx) on the test set is achieved.
-# Stock-Price-Prediction using (LSTM).
-Stock price prediction of State Bank of India and visualization of SBI and Reliance Industries stock
+
 <h1> Overview </h1>
 <p> The goal of this project is to train a neural network to classify handwritten digits from the famous MNIST dataset. Competitive learning is employed to adapt and specialize the neurons in the competitive layer based on the input data. The model is trained to achieve high accuracy in digit recognition.</p>
 
